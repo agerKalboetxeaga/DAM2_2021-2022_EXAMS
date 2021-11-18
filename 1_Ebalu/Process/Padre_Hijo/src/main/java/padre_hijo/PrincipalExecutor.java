@@ -39,8 +39,8 @@ public class PrincipalExecutor
                   do
                   {
                         line = sc.nextLine();
-                        osTransfStream.write((line + ENTER).getBytes()); //mandamos los datos
-                        osTransfStream.flush(); //flusheamos
+                        osTransfStream.write((line + ENTER).getBytes()); //seteamos los datos
+                        osTransfStream.flush(); //flusheamos (mandamos los datos al otro programa)
                         var lineTransf = bffTransfReader.readLine(); //leemos el resuldado de vuelta
                         System.out.println(lineTransf); //lo imprimimos
                         oWriteStream.write((lineTransf + ENTER).getBytes());
