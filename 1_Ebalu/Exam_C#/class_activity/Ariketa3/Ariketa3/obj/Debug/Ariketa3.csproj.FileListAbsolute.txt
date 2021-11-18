@@ -1,0 +1,10 @@
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\bin\Debug\Ariketa3.exe.config
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\bin\Debug\Ariketa3.exe
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\bin\Debug\Ariketa3.pdb
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\obj\Debug\Ariketa3.csproj.AssemblyReference.cache
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\obj\Debug\Ariketa3.Form1.resources
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\obj\Debug\Ariketa3.Properties.Resources.resources
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\obj\Debug\Ariketa3.csproj.GenerateResource.cache
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\obj\Debug\Ariketa3.csproj.CoreCompileInputs.cache
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\obj\Debug\Ariketa3.exe
+E:\DAM klasean\Erronka2\Ariketa3\Ariketa3\obj\Debug\Ariketa3.pdb

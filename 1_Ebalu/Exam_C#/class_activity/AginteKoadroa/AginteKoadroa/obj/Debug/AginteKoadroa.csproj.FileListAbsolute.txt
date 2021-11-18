@@ -1,0 +1,10 @@
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\bin\Debug\AginteKoadroa.exe.config
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\bin\Debug\AginteKoadroa.exe
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\bin\Debug\AginteKoadroa.pdb
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.AssemblyReference.cache
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.Form1.resources
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.Properties.Resources.resources
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.GenerateResource.cache
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.CoreCompileInputs.cache
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.exe
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.pdb

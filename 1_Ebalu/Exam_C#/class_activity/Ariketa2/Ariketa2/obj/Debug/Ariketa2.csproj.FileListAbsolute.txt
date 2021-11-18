@@ -1,0 +1,9 @@
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\bin\Debug\Ariketa2.exe.config
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\bin\Debug\Ariketa2.exe
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\bin\Debug\Ariketa2.pdb
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\obj\Debug\Ariketa2.Form1.resources
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\obj\Debug\Ariketa2.Properties.Resources.resources
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\obj\Debug\Ariketa2.csproj.GenerateResource.cache
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\obj\Debug\Ariketa2.csproj.CoreCompileInputs.cache
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\obj\Debug\Ariketa2.exe
+C:\Users\izaskun\Desktop\Ariketa1\Ariketa2\obj\Debug\Ariketa2.pdb

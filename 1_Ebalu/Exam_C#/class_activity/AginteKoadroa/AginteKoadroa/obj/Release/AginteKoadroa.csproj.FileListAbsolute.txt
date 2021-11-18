@@ -1,0 +1,9 @@
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\bin\Release\AginteKoadroa.exe.config
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\bin\Release\AginteKoadroa.exe
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\bin\Release\AginteKoadroa.pdb
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Release\AginteKoadroa.Form1.resources
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Release\AginteKoadroa.Properties.Resources.resources
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Release\AginteKoadroa.csproj.GenerateResource.cache
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Release\AginteKoadroa.csproj.CoreCompileInputs.cache
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Release\AginteKoadroa.exe
+E:\DAM klasean\Erronka2\AginteKoadroa\AginteKoadroa\obj\Release\AginteKoadroa.pdb

@@ -1,0 +1,6 @@
+E:\DAM klasean\Erronka2\KaixoDLL\KaixoDLL\bin\Debug\KaixoDLL.dll
+E:\DAM klasean\Erronka2\KaixoDLL\KaixoDLL\bin\Debug\KaixoDLL.pdb
+E:\DAM klasean\Erronka2\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.csproj.AssemblyReference.cache
+E:\DAM klasean\Erronka2\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.csproj.CoreCompileInputs.cache
+E:\DAM klasean\Erronka2\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.dll
+E:\DAM klasean\Erronka2\KaixoDLL\KaixoDLL\obj\Debug\KaixoDLL.pdb

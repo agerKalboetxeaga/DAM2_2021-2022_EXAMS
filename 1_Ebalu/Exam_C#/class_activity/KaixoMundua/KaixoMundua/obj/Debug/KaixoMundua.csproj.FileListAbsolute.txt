@@ -1,0 +1,10 @@
+E:\DAM klasean\KaixoMundua\KaixoMundua\bin\Debug\KaixoMundua.exe.config
+E:\DAM klasean\KaixoMundua\KaixoMundua\bin\Debug\KaixoMundua.exe
+E:\DAM klasean\KaixoMundua\KaixoMundua\bin\Debug\KaixoMundua.pdb
+E:\DAM klasean\KaixoMundua\KaixoMundua\obj\Debug\KaixoMundua.csproj.AssemblyReference.cache
+E:\DAM klasean\KaixoMundua\KaixoMundua\obj\Debug\KaixoMundua.Form1.resources
+E:\DAM klasean\KaixoMundua\KaixoMundua\obj\Debug\KaixoMundua.Properties.Resources.resources
+E:\DAM klasean\KaixoMundua\KaixoMundua\obj\Debug\KaixoMundua.csproj.GenerateResource.cache
+E:\DAM klasean\KaixoMundua\KaixoMundua\obj\Debug\KaixoMundua.csproj.CoreCompileInputs.cache
+E:\DAM klasean\KaixoMundua\KaixoMundua\obj\Debug\KaixoMundua.exe
+E:\DAM klasean\KaixoMundua\KaixoMundua\obj\Debug\KaixoMundua.pdb

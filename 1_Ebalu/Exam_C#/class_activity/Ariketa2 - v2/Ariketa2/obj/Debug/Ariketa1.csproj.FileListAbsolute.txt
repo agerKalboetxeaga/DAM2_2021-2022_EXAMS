@@ -1,0 +1,10 @@
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\bin\Debug\Ariketa1.exe.config
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\bin\Debug\Ariketa1.exe
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\bin\Debug\Ariketa1.pdb
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\obj\Debug\Ariketa1.csprojAssemblyReference.cache
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\obj\Debug\Ariketa1.Form1.resources
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\obj\Debug\Ariketa1.Properties.Resources.resources
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\obj\Debug\Ariketa1.csproj.GenerateResource.cache
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\obj\Debug\Ariketa1.csproj.CoreCompileInputs.cache
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\obj\Debug\Ariketa1.exe
+C:\Users\ikortabitarte\Documents\Interfaze Garapena\Ariketa1\Ariketa1\obj\Debug\Ariketa1.pdb

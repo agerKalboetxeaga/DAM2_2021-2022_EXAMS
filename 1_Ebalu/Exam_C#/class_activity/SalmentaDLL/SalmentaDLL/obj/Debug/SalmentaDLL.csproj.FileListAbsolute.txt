@@ -1,0 +1,17 @@
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\bin\Debug\SalmentaDLL.dll.config
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\bin\Debug\SalmentaDLL.dll
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\bin\Debug\SalmentaDLL.pdb
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.csproj.AssemblyReference.cache
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.Grafikoa.resources
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.csproj.GenerateResource.cache
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.csproj.CoreCompileInputs.cache
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.dll
+E:\DAM klasean\Erronka2\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.pdb
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\bin\Debug\SalmentaDLL.dll.config
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\bin\Debug\SalmentaDLL.dll
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\bin\Debug\SalmentaDLL.pdb
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.Grafikoa.resources
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.csproj.GenerateResource.cache
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.csproj.CoreCompileInputs.cache
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.dll
+E:\Aprobak_DAM\SalmentaDLL\SalmentaDLL\obj\Debug\SalmentaDLL.pdb
