@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UNI_38_SQLite</string>
+    <string name="taldea">Taldea:</string>
+    <string name="taldea_hint">Idatzi taldearen izena hemen...</string>
+    <string name="diska">Diska:</string>
+    <string name="diska_hint">Idatzi diskaren izena hemen...</string>
+    <string name="gehitu">Gehitu</string>
+    <string name="ezabatu">Ezabatu</string>
+</resources>

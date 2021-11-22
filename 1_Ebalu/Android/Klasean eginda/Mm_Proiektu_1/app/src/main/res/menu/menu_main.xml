@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mm_proiektu_1.MainActivity">
+ <!--   <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" /> -->
+    <item android:title="auk1"
+        android:id="@+id/auk1"/>
+    <item android:title="auk2"
+        android:id="@+id/auk2"/>
+    <item android:title="auk3"
+        android:id="@+id/auk3"/>
+    <group android:id="@+id/group_text">
+        <item
+            android:id="@+id/auk3_1"
+            android:title="auk3_1" />
+        <item
+            android:id="@+id/auk2_2"
+            android:title="auk3_2" />
+    </group>
+</menu>
